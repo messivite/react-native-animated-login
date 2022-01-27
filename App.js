@@ -93,10 +93,12 @@ const keyboardDidShow = () =>{
 
    
     <ImageBackground 
+    style={{
+      flex:1,
+      backgroundColor:'rgba(0,0,0,0.4)'
+    }}
       source={require('./assets/bg.jpeg')}
-      style={{
-        flex:1
-      }}
+  
     >
  <StatusBar style="light" />
 <LinearGradient
@@ -142,7 +144,7 @@ const keyboardDidShow = () =>{
         />
         <TextInput
         style={styles.input}
-        placeholder='Password'
+        placeholder='Şifre'
         autoCorrect={false}
         onChangeText={()=>{}}
         />
