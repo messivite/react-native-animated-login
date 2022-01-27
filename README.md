@@ -12,7 +12,7 @@ expo start
 
 <h1 align="center">Screen Video - iPhone 13 </h1>
 
-<p><img src="https://i.ibb.co/V384JMn/ezgif-2-eadbb890cf.gif"> </p>
+<p align="center"><img align="center" src="https://im2.ezgif.com/tmp/ezgif-2-452d7c1e1b.gif" width="400"> </p>
 
 <h1 align="center">Expo DEMO URL</h1>
 
