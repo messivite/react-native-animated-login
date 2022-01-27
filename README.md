@@ -12,9 +12,9 @@ expo start
 
 <h1 align="center">Screen Video - iPhone 13 </h1>
 
-<img src="https://i.ibb.co/V384JMn/ezgif-2-eadbb890cf.gif" border="0" width="500" height="500" />
+<p><img src="https://i.ibb.co/V384JMn/ezgif-2-eadbb890cf.gif" border="0" width="500" height="500"></p>
 
-<h1>Expo DEMO URL</h1>
+<h1 align="center">Expo DEMO URL</h1>
 
 <p align="center">https://expo.dev/@mustafaaksoy4134/reactnativeanimatelogin</p>
 
