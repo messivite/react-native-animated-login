@@ -14,6 +14,10 @@ expo start
 
 <img src="https://i.ibb.co/V384JMn/ezgif-2-eadbb890cf.gif" border="0" width="500" height="500" />
 
+<h1>Expo DEMO URL</h1>
+
+<p align="center">https://expo.dev/@mustafaaksoy4134/reactnativeanimatelogin</p>
+
 <h1 align="center">Hi 👋, My name is Mustafa</h1>
 <h3 align="center">This example RN project is Animated Login View.</h3>
 
